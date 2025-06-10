@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Airesesteban
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+Hola! soy Esteban Aires
 
+Estudiante | FullStack Developer | Javascript | Node.js | React |
